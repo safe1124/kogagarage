@@ -91,7 +91,7 @@ export function Hero() {
         >
           日常に便利さと楽しさを届けるアプリを開発しています。
           <br />
-          SwiftUI と UIKit を用いて、8本のアプリをリリースしました。
+          SwiftUI と UIKit を用いて、9本のアプリをリリースしました。
         </motion.p>
       </div>
 

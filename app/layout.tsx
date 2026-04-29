@@ -17,7 +17,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: '古賀滉大 | iOS Developer Portfolio',
-  description: '日常に便利さと楽しさを届ける iOS開発者。SwiftUI と UIKit を用いて、8本のアプリをリリース。',
+  description: '日常に便利さと楽しさを届ける iOS開発者。SwiftUI と UIKit を用いて、9本のアプリをリリース。',
   generator: 'v0.app',
   icons: {
     icon: [
